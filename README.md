@@ -21,3 +21,8 @@
 5. *Jalankan Proyek:* Ketikan perintah *"flutter run"*
 
 ## Screenshot UI dan tampilan ##
+![Image](https://github.com/user-attachments/assets/a5a7fe7e-35ed-476a-a760-446397318d20)
+![Image](https://github.com/user-attachments/assets/2b75a9df-6039-4531-bf96-341f0cae0690)
+![Image](https://github.com/user-attachments/assets/be5d8ab8-894a-4fd1-b822-e40c4d632b1e)
+![Image](https://github.com/user-attachments/assets/581f2d0d-a1ce-4e5d-9b01-21fcf739b3cf)
+![Image](https://github.com/user-attachments/assets/cb4bbaa8-7401-4b20-8337-7c64aa33b0fd)
