@@ -1,7 +1,7 @@
 # ToDo Application
 *Nama:*
 - Raafi Rasyid Averoes (2390343102)
-- Abdurahman Isyam ()
+- Abdurahman Hisyam (2390343001)
 ## Deskripsi Fungsionalitas Aplikasi:
 - Menambah catatan tugas (task).
 - Mengedit catatan tugas yang sudah ada.
